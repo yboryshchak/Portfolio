@@ -5,7 +5,7 @@
 Yarema Boryshchak PhD
 Mathematician and Data Analyst at Florida Atlantic University
 
-<img src=" Portfolio/images/Portfolio Photo.png?raw=true"/>
+<img src="Portfolio/images/Portfolio Photo.png"/>
 
 ### Installation
 
