@@ -2,9 +2,10 @@
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Yarema Boryshchak PhD
+Mathematician and Data Analyst at Florida Atlantic University
 
-<img src="images/demo.gif?raw=true"/>
+<img src="images/Portfolio Photo.phg?raw=true"/>
 
 ### Installation
 
