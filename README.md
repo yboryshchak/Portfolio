@@ -6,5 +6,5 @@
 
 
 
-<img src="Portfolio/images/Portfolio Photo.png"/>
+<img src="Portfolio/images/Portfolio Photo.png">
 
