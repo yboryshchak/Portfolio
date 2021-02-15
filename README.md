@@ -1,4 +1,4 @@
-## Data Analyst at
+## Data Analyst 
 
 ### Research and Assessment Department of  Florida Atlantic University
 
