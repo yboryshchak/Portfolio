@@ -1,6 +1,6 @@
 ## Yarema Boryshchak PhD
 ### Senior Data Modeling Analyst
-### DHL eCommerce USA
+### DHL eCommerce, USA
 
 <img src="images/Portfolio Photo.png" class="img-responsive" alt=""> </div>
 
